@@ -1,0 +1,4 @@
+Player Deck:
+salmon_nigiri dumpling egg_nigiri dumpling dumpling chopsticks 
+AI Deck:
+sashimi wasabi maki egg_nigiri egg_nigiri dumpling 
